@@ -1,0 +1,49 @@
+.navbar {
+    background: #f6b319;
+    color: #c61e24;
+}
+
+.content {
+    background: #c61e24;
+    color: white;
+}
+
+.footer {
+    width: 100%;
+    padding: 10px;
+    background: #363636;
+    color: white;
+}
+
+.card {
+    margin: 10px;
+    padding: 5px;
+    background: #c61e24;
+}
+
+.card:hover {
+    background: #f6b319;
+    transition: 1s;
+}
+
+.buisness-title {
+    font-family: "Lora";
+    color: #557c3e;
+}
+
+.row {
+    margin-top: 10px;
+}
+
+.dishes {
+    border: 1px solid #f6b319;
+    border-radius: 5px;
+}
+.dishes:hover {
+    background: #f6b319;
+    transition: 1s;
+}
+
+.navbar-toggler-icon {
+    border: 1px solid #c61e24; 
+}
